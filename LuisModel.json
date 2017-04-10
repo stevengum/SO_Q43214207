@@ -1,0 +1,94 @@
+{
+  "luis_schema_version": "2.0.0",
+  "versionId": "0.1",
+  "name": "SO-Q 43214207",
+  "desc": "StackOverFlow: 'BotFramework : is it possible to combine LUIS intents and normal intents?'\n\nCreation of a MakePizza intent to match with dialog.",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "MakePizza"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "bing_entities": [],
+  "actions": [],
+  "model_features": [],
+  "regex_features": [],
+  "utterances": [
+    {
+      "text": "hi",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "hello",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "goodbye",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "fklgjsdlfgjad",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "hello",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "create a pizza",
+      "intent": "MakePizza",
+      "entities": []
+    },
+    {
+      "text": "i want to order a pizza",
+      "intent": "MakePizza",
+      "entities": []
+    },
+    {
+      "text": "order pizza",
+      "intent": "MakePizza",
+      "entities": []
+    },
+    {
+      "text": "i want to make a pizza",
+      "intent": "MakePizza",
+      "entities": []
+    },
+    {
+      "text": "make me a pizza",
+      "intent": "MakePizza",
+      "entities": []
+    },
+    {
+      "text": "make pizza",
+      "intent": "MakePizza",
+      "entities": []
+    },
+    {
+      "text": "create a pizza order",
+      "intent": "MakePizza",
+      "entities": []
+    },
+    {
+      "text": "make a pizza",
+      "intent": "MakePizza",
+      "entities": []
+    },
+    {
+      "text": "lets make a pizza",
+      "intent": "MakePizza",
+      "entities": []
+    }
+  ]
+}
